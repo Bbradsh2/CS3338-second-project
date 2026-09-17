@@ -1,0 +1,45 @@
+commit c861529f13585e7d79c6268a0bd08f4121b387d7
+Merge: 043c431 634ba80
+Author: Bbradsh2 <bbradsh2@calstatela.edu>
+Date:   Thu Sep 17 14:27:56 2026 -0700
+
+    Resolved merge conflict between main and index-fix
+
+commit 634ba807b2dae9883f826fb14f4a86a0e197e753
+Author: Bbradsh2 <bbradsh2@calstatela.edu>
+Date:   Thu Sep 17 14:23:25 2026 -0700
+
+    Added favorite game to index.html
+
+commit 043c431eb96522b9bc51a5d46cbfe9e3f9deb170
+Author: Bbradsh2 <bbradsh2@calstatela.edu>
+Date:   Thu Sep 17 14:21:59 2026 -0700
+
+    Added favorite food to index.html
+
+commit 7f835e38b2bf31e983441027370c9afb9f896d4f
+Author: Bbradsh2 <bbradsh2@calstatela.edu>
+Date:   Thu Sep 17 14:16:53 2026 -0700
+
+    Added README.md to main branch
+
+commit 986267f05de66a3e846a454d8d960272e19658da
+Merge: 1d2bfc0 f3883fd
+Author: Bbradsh2 <bbradsh2@calstatela.edu>
+Date:   Thu Sep 17 14:11:38 2026 -0700
+
+    Merge pull request #1 from Bbradsh2/info-fill
+    
+    Filled in the blanks in index.html
+
+commit f3883fda86da6a9a2cfab5e29d253bc80b18b36c
+Author: Bbradsh2 <bbradsh2@calstatela.edu>
+Date:   Thu Sep 17 13:38:57 2026 -0700
+
+    Filled in the blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
